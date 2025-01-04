@@ -22,8 +22,5 @@
   "homepage": "https://github.com/kushwahaTarun/Currency-Coverter#readme",
   "dependencies": {
     "@everapi/freecurrencyapi-js": "^1.0.1"
-  },
-  "devDependencies": {
-    "typescript": "^5.7.2"
   }
 }
