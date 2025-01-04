@@ -1,5 +1,5 @@
 {
-  "name": "currency-converter",
+  "name": "tk-currency-converter",
   "version": "1.0.0",
   "description": "NPM package that will convert the currency",
   "main": "index.js",
