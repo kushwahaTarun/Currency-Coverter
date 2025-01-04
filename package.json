@@ -1,0 +1,26 @@
+{
+  "name": "tk-currency-converter",
+  "version": "1.2.0",
+  "description": "NPM package that will convert the currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushwahaTarun/Currency-Coverter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Tarun Kushwaha",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kushwahaTarun/Currency-Coverter/issues"
+  },
+  "homepage": "https://github.com/kushwahaTarun/Currency-Coverter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
